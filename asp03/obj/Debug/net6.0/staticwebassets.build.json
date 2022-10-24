@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CZQJh5ULWWK4SwWQcNSdcPmVp6NZbmgZGaRRBTUDW8o=",
+  "Source": "asp03",
+  "BasePath": "_content/asp03",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "asp03\\wwwroot",
+      "Source": "asp03",
+      "ContentRoot": "C:\\Users\\john.nguyen\\Desktop\\asp03\\wwwroot\\",
+      "BasePath": "_content/asp03",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
